@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CVk5tEiPsoUE72hmmqvHeXST8URT7avYSyCSuTLZGrI=",
+  "Source": "gServiceManagment.API",
+  "BasePath": "_content/gServiceManagment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

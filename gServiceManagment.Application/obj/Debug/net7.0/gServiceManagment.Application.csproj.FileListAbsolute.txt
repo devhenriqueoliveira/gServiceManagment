@@ -1,0 +1,12 @@
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\bin\Debug\net7.0\gServiceManagment.Application.deps.json
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\bin\Debug\net7.0\gServiceManagment.Application.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\bin\Debug\net7.0\gServiceManagment.Application.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.csproj.AssemblyReference.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.AssemblyInfoInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.AssemblyInfo.cs
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.csproj.CoreCompileInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\refint\gServiceManagment.Application.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\gServiceManagment.Application.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Application\obj\Debug\net7.0\ref\gServiceManagment.Application.dll
