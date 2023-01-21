@@ -1,0 +1,12 @@
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\bin\Debug\net7.0\gServiceManagment.Domain.deps.json
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\bin\Debug\net7.0\gServiceManagment.Domain.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\bin\Debug\net7.0\gServiceManagment.Domain.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.csproj.AssemblyReference.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.AssemblyInfo.cs
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.csproj.CoreCompileInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\refint\gServiceManagment.Domain.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\gServiceManagment.Domain.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Domain\obj\Debug\net7.0\ref\gServiceManagment.Domain.dll

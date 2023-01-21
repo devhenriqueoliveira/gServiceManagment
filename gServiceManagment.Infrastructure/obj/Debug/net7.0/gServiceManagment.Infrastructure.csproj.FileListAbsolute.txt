@@ -1,0 +1,12 @@
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\bin\Debug\net7.0\gServiceManagment.Infrastructure.deps.json
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\bin\Debug\net7.0\gServiceManagment.Infrastructure.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\bin\Debug\net7.0\gServiceManagment.Infrastructure.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.AssemblyInfo.cs
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\refint\gServiceManagment.Infrastructure.dll
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\gServiceManagment.Infrastructure.pdb
+C:\dev\projects\gServiceManagment\gServiceManagment.Infrastructure\obj\Debug\net7.0\ref\gServiceManagment.Infrastructure.dll
